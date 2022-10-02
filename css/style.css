@@ -99,3 +99,13 @@ p {
 .nav-pills .nav-link{
   width: 100%;
 }
+
+.footer-logo{
+  position: fixed;
+  right: 50px;
+  bottom: 50px;
+
+}
+.footer-logo img{
+  width: 80px;
+}
